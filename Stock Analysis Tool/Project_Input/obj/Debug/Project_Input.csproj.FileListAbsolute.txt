@@ -1,0 +1,11 @@
+C:\Users\mario\source\repos\Dev\C#\Project_Input\Project_Input\bin\Debug\Project_Input.exe.config
+C:\Users\mario\source\repos\Dev\C#\Project_Input\Project_Input\bin\Debug\Project_Input.exe
+C:\Users\mario\source\repos\Dev\C#\Project_Input\Project_Input\bin\Debug\Project_Input.pdb
+C:\Users\mario\source\repos\Dev\C#\Project_Input\Project_Input\obj\Debug\Project_Input.csproj.AssemblyReference.cache
+C:\Users\mario\source\repos\Dev\C#\Project_Input\Project_Input\obj\Debug\Project_Input.Form_display.resources
+C:\Users\mario\source\repos\Dev\C#\Project_Input\Project_Input\obj\Debug\Project_Input.Form_Input.resources
+C:\Users\mario\source\repos\Dev\C#\Project_Input\Project_Input\obj\Debug\Project_Input.Properties.Resources.resources
+C:\Users\mario\source\repos\Dev\C#\Project_Input\Project_Input\obj\Debug\Project_Input.csproj.GenerateResource.cache
+C:\Users\mario\source\repos\Dev\C#\Project_Input\Project_Input\obj\Debug\Project_Input.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\Dev\C#\Project_Input\Project_Input\obj\Debug\Project_Input.exe
+C:\Users\mario\source\repos\Dev\C#\Project_Input\Project_Input\obj\Debug\Project_Input.pdb

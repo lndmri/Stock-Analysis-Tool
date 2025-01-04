@@ -1,0 +1,30 @@
+C:\Users\mario\source\repos\Dev\C#\Project_Input -Part3\Project_Input\bin\Debug\Project_Input.exe.config
+C:\Users\mario\source\repos\Dev\C#\Project_Input -Part3\Project_Input\bin\Debug\Project_Input.exe
+C:\Users\mario\source\repos\Dev\C#\Project_Input -Part3\Project_Input\bin\Debug\Project_Input.pdb
+C:\Users\mario\source\repos\Dev\C#\Project_Input -Part3\Project_Input\obj\Debug\Project_Input3.csproj.AssemblyReference.cache
+C:\Users\mario\source\repos\Dev\C#\Project_Input -Part3\Project_Input\obj\Debug\Project_Input.Form_display.resources
+C:\Users\mario\source\repos\Dev\C#\Project_Input -Part3\Project_Input\obj\Debug\Project_Input.Properties.Resources.resources
+C:\Users\mario\source\repos\Dev\C#\Project_Input -Part3\Project_Input\obj\Debug\Project_Input3.csproj.GenerateResource.cache
+C:\Users\mario\source\repos\Dev\C#\Project_Input -Part3\Project_Input\obj\Debug\Project_Input3.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\Dev\C#\Project_Input -Part3\Project_Input\obj\Debug\Project_Input.exe
+C:\Users\mario\source\repos\Dev\C#\Project_Input -Part3\Project_Input\obj\Debug\Project_Input.pdb
+C:\Users\mario\source\repos\Dev\C#\Project_Input -Part3 (Messed up)\Project_Input\bin\Debug\Project_Input.exe.config
+C:\Users\mario\source\repos\Dev\C#\Project_Input -Part3 (Messed up)\Project_Input\bin\Debug\Project_Input.exe
+C:\Users\mario\source\repos\Dev\C#\Project_Input -Part3 (Messed up)\Project_Input\bin\Debug\Project_Input.pdb
+C:\Users\mario\source\repos\Dev\C#\Project_Input -Part3 (Messed up)\Project_Input\obj\Debug\Project_Input3.csproj.AssemblyReference.cache
+C:\Users\mario\source\repos\Dev\C#\Project_Input -Part3 (Messed up)\Project_Input\obj\Debug\Project_Input.Form_display.resources
+C:\Users\mario\source\repos\Dev\C#\Project_Input -Part3 (Messed up)\Project_Input\obj\Debug\Project_Input.Properties.Resources.resources
+C:\Users\mario\source\repos\Dev\C#\Project_Input -Part3 (Messed up)\Project_Input\obj\Debug\Project_Input3.csproj.GenerateResource.cache
+C:\Users\mario\source\repos\Dev\C#\Project_Input -Part3 (Messed up)\Project_Input\obj\Debug\Project_Input3.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\Dev\C#\Project_Input -Part3 (Messed up)\Project_Input\obj\Debug\Project_Input.exe
+C:\Users\mario\source\repos\Dev\C#\Project_Input -Part3 (Messed up)\Project_Input\obj\Debug\Project_Input.pdb
+C:\Users\mario\source\repos\Dev\C#\Stock Trends\Project_Input\bin\Debug\Project_Input.exe.config
+C:\Users\mario\source\repos\Dev\C#\Stock Trends\Project_Input\bin\Debug\Project_Input.exe
+C:\Users\mario\source\repos\Dev\C#\Stock Trends\Project_Input\bin\Debug\Project_Input.pdb
+C:\Users\mario\source\repos\Dev\C#\Stock Trends\Project_Input\obj\Debug\Project_Input3.csproj.AssemblyReference.cache
+C:\Users\mario\source\repos\Dev\C#\Stock Trends\Project_Input\obj\Debug\Project_Input.Form_display.resources
+C:\Users\mario\source\repos\Dev\C#\Stock Trends\Project_Input\obj\Debug\Project_Input.Properties.Resources.resources
+C:\Users\mario\source\repos\Dev\C#\Stock Trends\Project_Input\obj\Debug\Project_Input3.csproj.GenerateResource.cache
+C:\Users\mario\source\repos\Dev\C#\Stock Trends\Project_Input\obj\Debug\Project_Input3.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\Dev\C#\Stock Trends\Project_Input\obj\Debug\Project_Input.exe
+C:\Users\mario\source\repos\Dev\C#\Stock Trends\Project_Input\obj\Debug\Project_Input.pdb
